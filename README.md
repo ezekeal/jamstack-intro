@@ -32,7 +32,7 @@ This is the code for a Frontend Masters workshop. In this workshop, we’ll lear
 
 ### Section 3: Serverless Functions
 
-Before serverless functions, getting
+Before serverless functions, getting 
 
 - What are serverless functions?
   - Talk about other providers
